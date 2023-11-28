@@ -6,7 +6,7 @@ import Header from '@/components/Header'
 const nunito = Nunito({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Amartya',
+  title: 'Deb',
   description: 'Building interfaces for the web.',
 }
 

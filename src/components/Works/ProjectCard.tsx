@@ -15,12 +15,12 @@ const ProjectCards = ({ image, subtitle, title, description }: Props) => {
 
         <div className="flex gap-4  my-3 ">
           <div>
-            <h2 className="text-lg font-medium text-gray-700 dark:text-white">{title}</h2>
-            <p className="text-sm  dark:text-gray-400">{subtitle}</p>
+            <h2 className="text-lg font-medium text-white dark:text-white">{title}</h2>
+            <p className="text-sm  text-white">{subtitle}</p>
           </div>
         </div>
         <div>
-          <p className=" pb-5 dark:text-gray-400">{description}</p>
+          <p className=" pb-5 text-white">{description}</p>
         </div>
 
 

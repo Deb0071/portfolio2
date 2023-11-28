@@ -25,7 +25,7 @@ export default function Hero(): ReactElement {
   return (
     <div>
       <h1 className="sr-only">
-        Hello I&apos;m Amartya SInha, I&apos;m a software developer, and I love building cool interfaces for the web.
+        Hello I&apos;m Debojoyti Das, I&apos;m a software developer, and I love building cool interfaces for the web.
       </h1>
       <motion.div
         className="relative z-10 flex h-[calc(100vh-81px)] items-center md:h-[calc(100vh-116px)]"
@@ -38,7 +38,7 @@ export default function Hero(): ReactElement {
           <div className="-mt-36">
             <div ref={ref} className="flex cursor-default flex-col space-y-2">
               <h1 className="text-5xl font-semibold sm:text-7xl md:text-8xl xl:text-9xl">
-                Amartya Sinha
+                Debojoyti Das
               </h1>
               <h2 className="text-3xl font-medium opacity-70 sm:text-6xl md:text-6xl xl:text-5xl">
                 Playing with the web.
@@ -50,7 +50,7 @@ export default function Hero(): ReactElement {
                 Read more 
               </Link>
               <Link
-                href="https://drive.google.com/file/d/1q-1OKmv5wOnPSHG2h2pWOuvqO1eRM-AS/view?usp=sharing"
+                href="https://drive.google.com/file/d/1XazbPqU-cvGZ2EfYCXfMT31daLhGRv4E/view?usp=sharing"
                 className="underline-magical text-md w-max cursor-pointer sm:text-lg md:text-xl xl:text-xl text-gray-600"
               >
                 Resume

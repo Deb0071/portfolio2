@@ -4,16 +4,16 @@ import ProjectCards from './ProjectCard';
 const projects = [
     {
         id: 1,
-        title: 'Sociuus',
-        subtitle: 'Social Media App',
-        description: 'A simple social media app built with next js, planetscale, clerk, tailwind and redis.',
+        title: 'Amazon-Front-End-Clone',
+        subtitle: 'E-Commerce Website',
+        description: 'A simple social Front End Static Clone',
         image: 'hero.webp',
     },
     {
         id: 1,
-        title: 'Entropy',
-        subtitle: 'Social Media App',
-        description: 'This is the description of Project 2.',
+        title: 'Bank-Management-system',
+        subtitle: 'Bank Management System',
+        description: '"Efficiently streamline financial operations with our advanced Bank Management System, ensuring seamless transactions, robust security, and unparalleled customer service.',
         image: 'amie.png',
     },
 
