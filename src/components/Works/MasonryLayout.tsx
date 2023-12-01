@@ -14,7 +14,7 @@ const projects = [
         title: 'Bank-Management-system',
         subtitle: 'Bank Management System',
         description: '"Efficiently streamline financial operations with our advanced Bank Management System, ensuring seamless transactions, robust security, and unparalleled customer service.',
-        image: 'amie.png',
+        image: 'MergedImages.png',
     },
 
 

@@ -44,10 +44,10 @@ export default function Hero(): ReactElement {
                 Playing with the web.
               </h2>
               <div className='flex gap-4 pt-4 font-semibold '><Link
-                href="/about"
+                href="https://deb0071.github.io/Amazon-Front-End-Clone/"
                 className="underline-magical text-md w-max cursor-pointer sm:text-lg md:text-xl xl:text-xl text-gray-600"
               >
-                Read more 
+                Amazon Clone 
               </Link>
               <Link
                 href="https://drive.google.com/file/d/1XazbPqU-cvGZ2EfYCXfMT31daLhGRv4E/view?usp=sharing"
